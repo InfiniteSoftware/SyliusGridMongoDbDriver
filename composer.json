@@ -1,0 +1,16 @@
+{
+    "name": "infinite-software/sylius-grid-mongodb-driver",
+    "description": "Adds ability to use MongoDB documents in Sylius Grid bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "php": "^7.2",
+        "sylius/grid-bundle": "^1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Chornobyl",
+            "email": "dch@inbox.lv"
+        }
+    ]
+}
